@@ -1,5 +1,5 @@
 # NYC-taxi-data-mining
-This project discovers taxi travel patterns in New York City, USA, and builds machine learning models to predict whether gasoline taxis can switch to electric vehicles.
+This project discovers taxi travel patterns in New York City, USA from the NYC taxi trip data. 10 variables are extracted from the data to represent taxi's travel patterns. The project also builds machine learning models to predict whether gasoline taxis can switch to electric vehicles. The model accuracy is 82%.
 
 The New York City taxi trip data are available at http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml.
 
