@@ -1,0 +1,7 @@
+@echo off
+C:
+cd C:\Users\lianghu\Desktop\NYC Taxi Trip Data\By vehicle_GPS_dwell_without_charge
+dir
+copy *.csv Merge.csv
+echo
+pause
